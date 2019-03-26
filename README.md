@@ -1,2 +1,2 @@
 # pga-app
-PGA-APP algorithm
+PGA-APP algorithm for Cliff-Walking Problem
